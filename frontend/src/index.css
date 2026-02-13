@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-slate-950 text-slate-100 antialiased;
+}
+
+.glass-card {
+  @apply rounded-2xl bg-slate-900/80 border border-slate-700/70 shadow-soft-card;
+}
+
+.smooth-transition {
+  @apply transition-colors duration-200 ease-out;
+}
+
