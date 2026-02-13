@@ -1,6 +1,6 @@
 ## Explainable Carbon Emission Forecasting Web Application
 
-This project implements a portfolio-ready, full‑stack application inspired by the paper
+This project implements full‑stack application based on the paper
 **“Explainable Carbon Emission Forecasting for Sustainable Decision‑Making”**.
 
 It combines a **Random Forest Regressor** with **SHAP** and **LIME** for explainability and exposes
